@@ -1,0 +1,4 @@
+atualização 1.0.0 - lançamento no GitHub:
+	-main, fps, window, input(incompleto);
+
+atualização 1.0.1 - input completo
